@@ -1,7 +1,7 @@
 # elite_aps_econometrics
 Parser and linear regression for prices of elite apartments in Moscow (econometrics project)
 
-Econometrics research of elite apartments in Moscow. 
+Econometrics research of elite apartments in Moscow. 500 apartments from https://m2.ru/moskva/nedvizhimost/kupit-kvartiru/?districtIds=103&districtIds=81&districtIds=182&districtIds=218&districtIds=15&districtIds=60&districtIds=164&districtIds=37&districtIds={page_num}
 
 EDA: data cleaning, data vizualization and vizual analysis.
 
